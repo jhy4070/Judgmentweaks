@@ -1,0 +1,11 @@
+{
+  "Id": "Judgmentweaks",
+  "DisplayName": "Judgmentweaks",
+  "Author": "jhy4070",
+  "Version": "0.0.1",
+  "ManagerVersion": "0.22.14.0",
+  "AssemblyName": "Judgmentweaks.dll",
+  "EntryMethod": "Judgmentweaks.Startup.Load",
+  "HomePage": "https://github.com/jhy4070/Judgmentweaks",
+  "Repository": "https://raw.githubusercontent.com/jhy4070/Judgmentweaks/master/Repository.json"
+}
